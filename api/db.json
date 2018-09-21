@@ -1,0 +1,127 @@
+{
+  "clients": [
+    {
+      "id": 1,
+      "name": "Иван",
+      "inn": 777887777
+    },
+    {
+      "id": 2,
+      "name": "Максим",
+      "inn": 777887777
+    },
+    {
+      "id": 3,
+      "name": "Алекс",
+      "inn": 777887777
+    },
+    {
+      "id": 4,
+      "name": "Тест",
+      "inn": 777887777
+    },
+    {
+      "name": "Иванович",
+      "inn": "77788777788",
+      "id": 5
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "name": "Иван",
+      "client": [
+        {
+          "login": "Логин1",
+          "password": "qwerty",
+          "nick": "login1",
+          "balance": "123456789"
+        },
+        {
+          "login": "Логин1-1",
+          "password": "qwerty",
+          "nick": "login1-1",
+          "balance": "123456789"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Иван2",
+      "client": [
+        {
+          "login": "Логин2",
+          "password": "qwerty",
+          "nick": "login2",
+          "balance": "123456789"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Иван3",
+      "client": [
+        {
+          "login": "Логин3",
+          "password": "qwerty",
+          "nick": "login3",
+          "balance": "123456789"
+        },
+        {
+          "login": "Логин3-3",
+          "password": "qwerty",
+          "nick": "login3-3",
+          "balance": "123456789"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Иван4",
+      "client": [
+        {
+          "login": "Логин4",
+          "password": "qwerty",
+          "nick": "login4",
+          "balance": "123456789"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Иван5",
+      "client": [
+        {
+          "login": "Логин5",
+          "password": "qwerty",
+          "nick": "login5",
+          "balance": "123456789"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Иван",
+      "client": [
+        {
+          "login": "Логин6",
+          "password": "qwerty",
+          "nick": "login6",
+          "balance": "123456789"
+        },
+        {
+          "login": "Логин6-6",
+          "password": "qwerty",
+          "nick": "login6-6",
+          "balance": "123456789"
+        },
+        {
+          "login": "Логин6-61",
+          "password": "qwerty",
+          "nick": "login6",
+          "balance": "123456789"
+        }
+      ]
+    }
+  ]
+}
